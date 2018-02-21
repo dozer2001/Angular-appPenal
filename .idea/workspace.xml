@@ -1,0 +1,303 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="726b166b-886d-4754-bf17-a41ae8c9bc86" name="Default" comment="animationanimation">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/assets/.gitkeep" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/favicon.ico" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/Angular_HW4.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/.angular-cli.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/.firebaserc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/README.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/e2e/app.e2e-spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/e2e/app.po.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/e2e/tsconfig.e2e.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/firebase.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/firestore.indexes.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/firestore.rules" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/karma.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/package-lock.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/package.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/protractor.conf.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/Models/Client.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/Models/Settings.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/app-routing.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/app.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/app.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/app.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/app.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/app.module.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/add-client/add-client.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/add-client/add-client.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/add-client/add-client.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/add-client/add-client.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/client-details/client-details.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/client-details/client-details.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/client-details/client-details.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/clients/clients.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/clients/clients.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/clients/clients.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/clients/clients.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/dashboard/dashboard.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/dashboard/dashboard.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/dashboard/dashboard.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/dashboard/dashboard.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/edit-client/edit-client.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/edit-client/edit-client.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/edit-client/edit-client.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/edit-client/edit-client.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/login/login.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/login/login.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/login/login.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/login/login.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/navbar/navbar.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/navbar/navbar.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/navbar/navbar.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/navbar/navbar.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/not-found/not-found.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/not-found/not-found.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/not-found/not-found.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/not-found/not-found.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/register/register.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/register/register.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/register/register.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/register/register.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/settings/settings.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/settings/settings.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/settings/settings.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/settings/settings.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/sidebar/sidebar.component.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/sidebar/sidebar.component.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/sidebar/sidebar.component.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/components/sidebar/sidebar.component.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/guard/auth.guard.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/guard/register.guard.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/pipes/filter-for-name.pipe.spec.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/pipes/filter-for-name.pipe.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/services/auth.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/services/client.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/app/services/settings.service.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/environments/environment.prod.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/environments/environment.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/main.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/polyfills.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/styles.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/test.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/tsconfig.app.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/tsconfig.spec.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/src/typings.d.ts" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/tsconfig.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/clientpanelApp-master/tslint.json" />
+    </list>
+    <ignored path="$PROJECT_DIR$/.tmp/" />
+    <ignored path="$PROJECT_DIR$/temp/" />
+    <ignored path="$PROJECT_DIR$/tmp/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="register.component.ts" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/clientpanelApp-master/src/app/components/register/register.component.ts">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-41">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding>
+                <element signature="e#0#48#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>false</service-enabled>
+    <exe-path />
+    <annotation-enable>false</annotation-enable>
+    <other-services-enabled>false</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodeModulesDirectoryManager">
+    <handled-path value="$PROJECT_DIR$/clientpanelApp-master/node_modules" />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="226" />
+    <option name="y" value="35" />
+    <option name="width" value="1400" />
+    <option name="height" value="951" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Angular_HW4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular_HW4" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular_HW4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular_HW4" type="462c0819:PsiDirectoryNode" />
+              <item name="clientpanelApp-master" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular_HW4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular_HW4" type="462c0819:PsiDirectoryNode" />
+              <item name="clientpanelApp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular_HW4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular_HW4" type="462c0819:PsiDirectoryNode" />
+              <item name="clientpanelApp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular_HW4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular_HW4" type="462c0819:PsiDirectoryNode" />
+              <item name="clientpanelApp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Angular_HW4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Angular_HW4" type="462c0819:PsiDirectoryNode" />
+              <item name="clientpanelApp-master" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="components" type="462c0819:PsiDirectoryNode" />
+              <item name="register" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path" value="C:/Program Files/nodejs/node" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="HbShouldOpenHtmlAsHb" value="" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.tslint" value="D:\saiti\lessons\Angular_HW4\clientpanelApp-master\node_modules\tslint" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="726b166b-886d-4754-bf17-a41ae8c9bc86" name="Default" comment="" />
+      <created>1519218806369</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519218806369</updated>
+      <workItem from="1519218808559" duration="1356000" />
+      <workItem from="1519226794734" duration="836000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="2192000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="226" y="35" width="1400" height="951" extended-state="0" />
+    <layout>
+      <window_info id="TypeScript" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2496329" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32965687" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="animationanimation" />
+    <option name="LAST_COMMIT_MESSAGE" value="animationanimation" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/clientpanelApp-master/src/app/components/register/register.component.ts">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-41">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#48#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
